@@ -1,0 +1,35 @@
+3, 3 X 3: (Height by Width)
+    Possible Games: 255168
+    Possible Boards: 5478
+    Terminal Boards: 958
+    Win X: 626
+    Win O: 316
+    Draw: 16
+    Time: 0.173s
+
+3, 4 X 3
+    Possible Games: 131266944
+    Possible Boards: 108494
+    Terminal Boards: 33851
+    Win X: 21345
+    Win O: 12490
+    Draw: 16
+    Time: 3.484s
+
+4, 4 X 3
+    Possible Games: 451995264
+    Possible Boards: 141854
+    Terminal Boards: 3601
+    Win X: 1914
+    Win O: 949
+    Draw: 738
+    Time: 4.397s
+
+4, 4 X 4
+    Possible Games: 15038733958272
+    Possible Boards: 9722011
+    Terminal Boards: 659392
+    Win X: 401096
+    Win O: 252940
+    Draw: 5356
+    Time: 120.179s
